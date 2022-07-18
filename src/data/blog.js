@@ -33,7 +33,7 @@ const blogData = {
       minutes: 68,
     },
     {
-      id: 4,
+      id: 5,
       title: "fetch in reactJS",
       date:"February 30, 2021",
       preview: "using the fetch method in reactJS.",
