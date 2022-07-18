@@ -25,6 +25,20 @@ const blogData = {
       preview: "React, meet OOJS.",
       minutes: 47,
     },
+    {
+      id: 4,
+      title: "useState and useEffect",
+      date:"February 25, 2021",
+      preview: "using state in reactJS.",
+      minutes: 68,
+    },
+    {
+      id: 4,
+      title: "fetch in reactJS",
+      date:"February 30, 2021",
+      preview: "using the fetch method in reactJS.",
+      minutes: 80,
+    },
   ],
 };
 
